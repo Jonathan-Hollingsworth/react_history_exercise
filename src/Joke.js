@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import "./Joke.css";
 
 /** A single joke, along with vote up/down buttons. */
